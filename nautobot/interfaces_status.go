@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	InterfacesStatusEndpoint = "api/plugins/interfaces_telemetry/interfaces_status"
+	InterfacesStatusEndpoint = "api/plugins/interfaces-telemetry/interfaces-status"
 )
 
 type InterfacesStatus struct {
